@@ -1,5 +1,6 @@
 # Serial-port-debugging-assistant
-PyQt5 写的 GUI 串口调试助手
+PyQt5 写的 GUI 串口调试助手  
+下载 exe 可执行文件直接看最后
 
 ## GUI 展示
 
