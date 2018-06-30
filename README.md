@@ -1,10 +1,12 @@
 # Serial-port-debugging-assistant
 **PyQt5 写的 GUI 串口调试助手**  
-> 下载 exe 可执行文件直接看最后
+
 
 ## GUI 展示
 
 ![](https://github.com/Oslomayor/Markdown-Imglib/blob/master/Imgs/PyQt5-SerialPort.png?raw=true)
+
+**下载 exe 可执行文件直接看最后**
 
 ## 文件说明
 
