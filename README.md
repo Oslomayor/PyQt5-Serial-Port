@@ -39,6 +39,7 @@
 Windows 版本 exe 可执行文件 [下载](https://github.com/Oslomayor/PyQt5-Serial-Port/releases/download/V1.0/PyQt5-SerialPort.zip)
 
 ## 版本更新
+[V_稳定版](https://github.com/Oslomayor/PyQt5-SerialPort-Stable)
 [V2.0](https://github.com/Oslomayor/PyQt5-Serial-Port-V2)  
 [V1.0](https://github.com/Oslomayor/PyQt5-Serial-Port)  
 
